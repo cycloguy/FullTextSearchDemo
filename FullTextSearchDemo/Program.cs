@@ -16,7 +16,7 @@ namespace FullTextSearchDemo
         {
             using (var db = new WorldwideContext())
             {
-                Console.WriteLine("Press 1 run without Interceptor or 2 to run with interceptor : ");
+                Console.WriteLine("Press 1 run without Interceptor \n or 2 to run with interceptor : ");
                 var option = Console.Read();
                 var watch = new Stopwatch();
                 watch.Start();
