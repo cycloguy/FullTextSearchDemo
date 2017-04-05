@@ -1,0 +1,10 @@
+c:\users\vdev100\documents\visual studio 2015\Projects\FulltextEf\FulltextEf\bin\Debug\FulltextEf.exe.config
+c:\users\vdev100\documents\visual studio 2015\Projects\FulltextEf\FulltextEf\bin\Debug\FulltextEf.exe
+c:\users\vdev100\documents\visual studio 2015\Projects\FulltextEf\FulltextEf\bin\Debug\FulltextEf.pdb
+c:\users\vdev100\documents\visual studio 2015\Projects\FulltextEf\FulltextEf\bin\Debug\EntityFramework.dll
+c:\users\vdev100\documents\visual studio 2015\Projects\FulltextEf\FulltextEf\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\vdev100\documents\visual studio 2015\Projects\FulltextEf\FulltextEf\bin\Debug\EntityFramework.xml
+c:\users\vdev100\documents\visual studio 2015\Projects\FulltextEf\FulltextEf\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\vdev100\documents\visual studio 2015\Projects\FulltextEf\FulltextEf\obj\Debug\FulltextEf.csprojResolveAssemblyReference.cache
+c:\users\vdev100\documents\visual studio 2015\Projects\FulltextEf\FulltextEf\obj\Debug\FulltextEf.exe
+c:\users\vdev100\documents\visual studio 2015\Projects\FulltextEf\FulltextEf\obj\Debug\FulltextEf.pdb
